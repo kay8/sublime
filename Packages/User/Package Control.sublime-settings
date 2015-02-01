@@ -1,0 +1,33 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"CSS Snippets",
+		"CSS3_Syntax",
+		"D3.js Snippets",
+		"Emmet",
+		"Git",
+		"HTML5",
+		"jQuery",
+		"Markdown Preview",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SASS Snippets",
+		"SassBuilder",
+		"SCSS",
+		"SublimeLinter",
+		"Sublimerge Pro",
+		"TrailingSpaces",
+		"YUI Compressor"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_slow_plugins": false,
+	"draw_white_space": "selection",
+	"font_size": 11.0,
+	"highlight_line": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"open_files_in_new_window": false,
+	"trim_trailing_white_space_on_save": true
+}

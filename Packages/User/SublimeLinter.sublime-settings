@@ -1,0 +1,11 @@
+{
+    "sublimelinter_delay": 0.3,
+    // If true, lines with errors or warnings will have a gutter mark.
+    "sublimelinter_gutter_marks": true,
+
+    // If true, the find next/previous error commands will wrap.
+    "sublimelinter_wrap_find": true,
+
+    // Use ~/.jshintrc instead
+    "jshint_options": {}
+}
