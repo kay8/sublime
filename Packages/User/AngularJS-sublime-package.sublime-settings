@@ -1,0 +1,15 @@
+{
+	// Controls what scopes auto complete will be triggered in)
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
+	// For haml you could add
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin, text.haml",
+
+	// add for auto triggering controller completions within the ng-controller=""
+	"auto_complete_triggers":
+	    [
+	        {
+	            "characters": "ng-controller=\"*",
+	            "selector": "punctuation.definition.string"
+	        }
+	    ]
+}
