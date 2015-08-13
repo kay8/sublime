@@ -1,0 +1,24 @@
+Sublimerge has just been upgraded to version 2.10.5
+
+It is highly recommended to restart Sublime Text before use.
+------------------------------------------------------------
+
+
+What's new?
+===========
+
+Bug fixes:
+  - Fixed a bug in directories diff. When directory contained at least one symlink, 
+    Sublimerge didn't compare them.
+  - Fixed a bug that could throw an exception while changing summary panel contents.
+
+Enhancements:
+  - A few diff algorithm optimalizations.
+
+
+Licensing
+=========
+
+If you like Sublimerge, please support development by buying a license. It doesn't cost much! :)
+
+http://www.sublimerge.com/

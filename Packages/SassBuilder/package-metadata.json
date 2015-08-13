@@ -1,1 +1,1 @@
-{"url": "https://github.com/bnlucas/SassBuilder", "version": "2014.03.22.08.35.01", "description": "Sublime Text SASS compiler based on source directory config file."}
+{"description": "Sublime Text SASS compiler based on source directory config file.", "url": "https://github.com/bnlucas/SassBuilder", "platforms": ["*"], "version": "2015.06.22.15.51.40", "sublime_text": "<3000", "dependencies": []}
